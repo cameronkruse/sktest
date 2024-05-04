@@ -8,6 +8,7 @@
 </div>
 <div class="menu-container">
     <Menu />
+    <p> hello this is a test</p>
 </div>
 
 <style>
